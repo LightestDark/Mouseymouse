@@ -1,5 +1,10 @@
 # Mouseymouse
-Submission for the squeak self guided project.
+Submission for the squeak self guided project. (ADDED THE SCREENSHOT OF THE CHECKOUT)
+
+Checkout Price:
+
+<img width="914" height="386" alt="image" src="https://github.com/user-attachments/assets/56d38650-1a79-4007-a5ef-b6289f6fa3b2" />
+
 
 
 Assembly of mouse in case:
