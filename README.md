@@ -1,5 +1,5 @@
 # Mouseymouse
-Submission for the squeak self guided project. (ADDED THE SCREENSHOT OF THE CHECKOUT)
+Submission for the squeak self guided project. (ADDED BOM.csv file)
 
 
 BOM:
